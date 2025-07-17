@@ -1,4 +1,5 @@
 Snake Game
+
 A dynamic and engaging Snake Game developed in C++ using the SFML graphics library. The game offers three progressively challenging levels with unique mechanics like red and blue apples, bombs, and shrinking walls in Level 3. Built with object-oriented programming (OOP) principles and STL containers, it features smooth gameplay, robust collision detection, and a responsive user interface with intuitive menus.
 
 Overview
